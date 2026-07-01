@@ -1,0 +1,11 @@
+{
+  "name": "Basic 6 Maths Quest",
+  "short_name": "MathsQuest",
+  "description": "The Number Trail - Basic 6 Mathematics Game",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#f4a261",
+  "orientation": "portrait",
+  "icons": []
+}
